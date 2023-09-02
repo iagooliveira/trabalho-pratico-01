@@ -1,0 +1,133 @@
+.div-titulo {
+    left: 120px; top: 12px; position: absolute
+}
+
+.primeira-palavra {
+    color: #25282b;
+    font-family: Pacifico;
+    font-weight: 400;
+    line-height: 32.4px;
+    word-wrap: break-word;
+    font-size: 18px;
+}
+
+.segunda-palavra {
+    color: #ff800b;
+    font-size: 18px;
+    font-family: Pacifico;
+    font-weight: 400;
+    line-height: 32.4px;
+    word-wrap: break-word;
+}
+
+
+.div-principal {
+    width: 1440px;
+        height: 875px;
+        position: relative;
+        background: #f9faff;
+}
+
+.div-resumo-principal{
+    width: 588px;
+    height: 251px;
+    left: 120px;
+    top: 187px;
+    position: absolute;
+    color: #25282b;
+    font-size: 24px;
+    font-family: Poppins;
+    font-weight: 400;
+    line-height: 36px;
+    word-wrap: break-word;
+}
+
+.div-what-do-i-do {
+    left: 118px;
+          top: 446px;
+          position: absolute;
+          color: black;
+          font-size: 48px;
+          font-family: Playfair Display;
+          font-weight: 700;
+          line-height: 72px;
+          word-wrap: break-word;
+}
+
+.div-about-me {
+    width: 588px;
+          left: 120px;
+          top: 107px;
+          position: absolute;
+          color: #25282b;
+          font-size: 48px;
+          font-family: Playfair Display;
+          font-weight: 700;
+          line-height: 72px;
+          word-wrap: break-word;
+}
+
+.div-principal-foto {
+    width: 524px;
+          height: 524px;
+          left: 790px;
+          top: 67px;
+          position: absolute;
+}
+
+.div-principal-foto-secundaria {
+    width: 524px;
+    height: 524px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: #ff800b;
+    border-radius: 9999px;
+}
+
+.estilizacao-imagem {
+    width: 524px;
+            height: 524px;
+            left: 0px;
+            top: 0px;
+            position: absolute;
+            border-radius: 600px;
+}
+
+.div-principal-descrição-ux {
+    width: 282px;
+    height: 286px;
+    left: 426px;
+    top: 518px;
+    position: absolute;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+
+.div-ui-ux {
+    width: 204px;
+    height: 30px;
+    color: #ff800b;
+    font-size: 24px;
+    font-family: Otomanopee One;
+    font-weight: 400;
+    line-height: 36px;
+    word-wrap: break-word;
+}
+
+.div-descricao-ux {
+    width: 293px;
+            height: 184px;
+            color: black;
+            font-size: 24px;
+            font-family: Poppins;
+            font-weight: 400;
+            line-height: 36px;
+            word-wrap: break-word;
+}
+
+a {
+    text-decoration: none;
+}
